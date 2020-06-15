@@ -153,4 +153,4 @@ archivo.add_command(label="Salir",command=root.destroy)
 ayuda.add_command(label="Acerca de",command=informacion)
 
 
-root.mainloop()
+root.mainloop() #Fin del programa
